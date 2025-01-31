@@ -37,7 +37,4 @@ Improved data-driven decision-making for customer engagement strategies.
 
 
 
-How to Present This in an Interview:
--------------------------------------
-When asked about your SQL skills, you can say:
-"In my recent project, I worked on analyzing customer transactions using PostgreSQL. I started with basic queries for revenue tracking and customer behavior analysis. Then, I incorporated subqueries and window functions to rank customers, analyze purchase frequency, and track retention trends. Additionally, I used CTEs and LAG/LEAD functions to compare monthly revenue changes and identify customer inactivity patterns. This project helped me gain a deep understanding of SQL for business intelligence and analytics."
+
